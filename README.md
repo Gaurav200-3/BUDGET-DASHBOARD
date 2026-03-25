@@ -107,6 +107,9 @@ Heavy dependence on labor could be a risk.
 This dashboard tells a clear story:
 
 👉 Labor dominates expenses
+
 👉 Fixed costs are substantial but stable
+
 👉 Materials and overhead are minor contributors
+
 👉 Cost distribution within categories is uneven, especially for labor
