@@ -8,7 +8,7 @@
 This is a clustered bar chart comparing costs across categories. Each category has multiple colored bars (likely representing different time periods, departments, or scenarios such as budget vs actual vs forecast).
 
 # Categories Explained
-#1. Materials Costs
+# 1. Materials Costs
 Values are relatively low compared to other categories.
 Bars appear around:
 ~$6,000 (highest)
@@ -16,7 +16,7 @@ Bars appear around:
 👉 Interpretation: Materials are a minor portion of total expenses, suggesting either:
 Low raw material dependency, or
 Efficient procurement.
-#2. Labor Costs
+# 2. Labor Costs
 This is the largest cost driver in the dashboard.
 Values range approximately:
 ~$5,000 (smallest)
@@ -26,7 +26,7 @@ Labor dominates overall spending.
 Large variation suggests:
 Different workforce levels, or
 Differences between budget vs actual vs forecast.
-#3. Fixed Costs
+# 3. Fixed Costs
 Second largest category.
 Values roughly:
 ~$8,000 (lowest)
@@ -34,13 +34,14 @@ Values roughly:
 👉 Interpretation:
 Significant ongoing expenses (e.g., rent, equipment, salaries).
 More stable than labor but still substantial.
-#4. Overhead Costs
+# 4. Overhead Costs
 Relatively small and controlled.
 Values appear:
 ~$1,000–$7,000 range
 👉 Interpretation:
 Overhead is being kept under control, which is generally positive.
 Could include utilities, admin costs, etc.
+
 # 2. Bottom Section: Pie Charts (Cost Breakdown)
 
 These show how individual categories are composed internally.
