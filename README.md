@@ -1,7 +1,7 @@
 # BUDGET-DASHBOARD
 <img width="718" height="399" alt="Screenshot 2026-03-25 211542" src="https://github.com/user-attachments/assets/1ab80ebc-33f5-47f1-aac5-23242bf37c7e" />
 
-#This dashboard provides a financial breakdown of costs across four main categories—Materials, Labor, Fixed Costs, and Overhead Costs—and combines both comparative bar charts and composition pie charts to help you analyze spending patterns.
+# This dashboard provides a financial breakdown of costs across four main categories—Materials, Labor, Fixed Costs, and Overhead Costs—and combines both comparative bar charts and composition pie charts to help you analyze spending patterns.
 
 # 1. Top Section: “Totals” Bar Chart
 
